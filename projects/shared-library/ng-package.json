@@ -1,4 +1,5 @@
 {
+  "allowedNonPeerDependencies": ["shared-library"],
   "$schema": "../../node_modules/ng-packagr/ng-package.schema.json",
   "dest": "../../dist/shared-library",
   "lib": {
